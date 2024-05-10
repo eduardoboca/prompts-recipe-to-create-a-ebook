@@ -54,17 +54,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-<p>
-    <p>&nbsp&nbsp&nbspEduardo Freitas<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/eduardoboca" target="_blank">
-    GitHub</a><br>
-    <a href="www.linkedin.com/in/
-eduardo-freitas-ehff" target="_blank">LinkedIn</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-freitas-ehff/)
 
 ---
 
