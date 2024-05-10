@@ -30,7 +30,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título para um ebook sobre como consumir REST APIs em OutSystems. o foco do Ebook é de programadores lowcode e o subnicho é OutSystems. O título deve ser impactante e curto. Liste 5 variações de títulos.                                                        |
 | conteúdo | Faça um texto para o ebook. A introdução deve explicar o objetivo do ebook: explicar os conceitos de API REST e como consumi-las com OutSystems.|
-| conteúdo | O próximo capítulo explicar de forma simples e resumida o conceito de APIs Rest e dar um exemplo de uso. Como exemplo, cite uma aplicação de previsão do tempo.|
+| conteúdo | O próximo capítulo deve explicar de forma simples e resumida o conceito de APIs Rest e dar um exemplo de uso. Como exemplo, cite uma aplicação de previsão do tempo.|
  
 Bing/Copilot
 
@@ -55,12 +55,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspEduardo Freitas<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/eduardoboca">
-    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://github.com/eduardoboca" target="_blank">
+    GitHub</a><br>
     <a href="www.linkedin.com/in/
-eduardo-freitas-ehff">LinkedIn</a>
+eduardo-freitas-ehff" target="_blank">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
