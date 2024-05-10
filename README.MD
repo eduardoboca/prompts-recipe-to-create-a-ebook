@@ -13,12 +13,12 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/eduardoboca/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/eduardoboca/prompts-recipe-to-create-a-ebook/blob/main/output/ebook-rest-outsystems.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Copilot](https://www.bing.com/chat)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -29,9 +29,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título para um ebook sobre como consumir REST APIs em OutSystems. o foco do Ebook é de programadores lowcode e o subnicho é OutSystems. O título deve ser impactante e curto. Liste 5 variações de títulos.                                                        |
-
 | conteúdo | Faça um texto para o ebook. A introdução deve explicar o objetivo do ebook: explicar os conceitos de API REST e como consumi-las com OutSystems.|
-
 | conteúdo | O próximo capítulo explicar de forma simples e resumida o conceito de APIs Rest e dar um exemplo de uso. Como exemplo, cite uma aplicação de previsão do tempo.|
  
 Bing/Copilot
@@ -57,12 +55,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/eduardoboca">
