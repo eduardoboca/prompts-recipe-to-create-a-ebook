@@ -53,9 +53,9 @@ Bing/Copilot
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
-
+Eduardo Freitas
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-freitas-ehff/)
 
 ---
 
-⌨️ com 💜 por [Eduardo Freitas](https://github.com/eduardoboca)
+por [Eduardo Freitas](https://github.com/eduardoboca)
